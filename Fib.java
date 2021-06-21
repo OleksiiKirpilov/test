@@ -27,8 +27,6 @@ public class Fib{
 			}
 		}
 		
-		System.out.println(n2);
-		System.out.println(n);
 		System.out.println((System.nanoTime() - t1)/1e9);
 	}	
 }
